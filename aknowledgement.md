@@ -6,6 +6,6 @@ Thank you for being a valued member of the MegaAeroSpacePioneer community. Your 
 
 11 November 2023 
 
-[KOSASIH](
+[KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a) 
 
 Creator Of MegaAeroSpacePioneer and Team

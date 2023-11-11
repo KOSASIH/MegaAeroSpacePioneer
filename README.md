@@ -121,7 +121,10 @@ Welcome to MegaAeroSpacePioneer's GitHub repository! We appreciate your interest
 10. **Deployment Workflow:**
     - Deployment to production will be managed by maintainers after thorough testing.
 
-Thank you for contributing to MegaAeroSpacePioneer's advancements in aerospace engineering. Your dedication and expertise are invaluable to our mission. Happy coding!
+Thank you for contributing to MegaAeroSpacePioneer's advancements in aerospace engineering. Your dedication and expertise are invaluable to our mission. 
+Happy coding!
+
+# Guide
 
 # Design Principles and Considerations for Building Megastructures in Aerospace Engineering
 

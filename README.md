@@ -64,6 +64,65 @@ MegaAeroSpacePioneer is dedicated to addressing key challenges in aerospace engi
 
 By addressing these challenges, MegaAeroSpacePioneer aims to advance the frontiers of aerospace engineering, fostering innovation and sustainable progress in the pursuit of megastructure development.
 
+# Contributor Guide 
+
+**Contributor Guide for MegaAeroSpacePioneer GitHub Repository**
+
+Welcome to MegaAeroSpacePioneer's GitHub repository! We appreciate your interest in contributing to our cutting-edge aerospace engineering projects. To ensure a smooth collaboration, please follow this contributor guide:
+
+### Getting Started
+
+1. **Fork the Repository:**
+   - Fork the MegaAeroSpacePioneer repository to your GitHub account.
+   - Clone the forked repository to your local machine.
+
+2. **Branching Strategy:**
+   - Create a new branch for each feature or bug fix.
+   - Branch names should be descriptive and follow a convention (e.g., `feature/new-feature` or `bugfix/issue-fix`).
+
+3. **Code Style and Standards:**
+   - Adhere to the established coding style and standards.
+   - Ensure your code is well-documented and includes clear comments.
+
+### Making Changes
+
+4. **Committing Changes:**
+   - Commit messages should be concise and descriptive, following the present tense (e.g., "Add feature" not "Added feature").
+   - Reference relevant GitHub issues in your commit messages.
+
+5. **Pull Requests:**
+   - Open a pull request from your branch to the main repository's `develop` branch.
+   - Clearly outline the changes made and provide context in the pull request description.
+
+### Testing
+
+6. **Testing Guidelines:**
+   - Ensure that your code passes existing tests.
+   - Write new tests for the features you add or modify.
+
+### Code Review
+
+7. **Code Review Process:**
+   - Expect feedback and be responsive to review comments.
+   - Make necessary changes based on the feedback.
+
+### Collaboration and Communication
+
+8. **Communication Channels:**
+   - Engage in discussions on the GitHub issues related to your contributions.
+   - Join relevant communication channels (e.g., Discord or Slack) for real-time collaboration.
+
+9. **Community Guidelines:**
+   - Respect the project's Code of Conduct.
+   - Be inclusive and considerate of diverse perspectives.
+
+### Deployment
+
+10. **Deployment Workflow:**
+    - Deployment to production will be managed by maintainers after thorough testing.
+
+Thank you for contributing to MegaAeroSpacePioneer's advancements in aerospace engineering. Your dedication and expertise are invaluable to our mission. Happy coding!
+
 # Design Principles and Considerations for Building Megastructures in Aerospace Engineering
 
 ## Overview
